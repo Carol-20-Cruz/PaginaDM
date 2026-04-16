@@ -1,3 +1,6 @@
 [submodule "accesorios-dm-frontend"]
 	path = accesorios-dm-frontend
 	url = https://github.com/Carol-20-Cruz/accesorios-dm-frontend.git
+[submodule "accesorios-dm-backend"]
+	path = accesorios-dm-backend
+	url = https://github.com/Carol-20-Cruz/accesorios-dm-backend.git
