@@ -4,3 +4,6 @@
 [submodule "accesorios-dm-backend"]
 	path = accesorios-dm-backend
 	url = https://github.com/Carol-20-Cruz/accesorios-dm-backend.git
+[submodule "accesorios-dm-database"]
+	path = accesorios-dm-database
+	url = https://github.com/Carol-20-Cruz/accesorios-dm-database.git
